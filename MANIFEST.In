@@ -1,0 +1,5 @@
+include MANIFEST.In
+include Makefile
+include dragon.py
+include PyOpenGL-3.0.2.zip
+recursive-include jp *
